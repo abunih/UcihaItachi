@@ -9,9 +9,9 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/AbuUciha/UcihaItachi",
+  "repository": "https://github.com/abunih/UcihaSensei",
   "website": "https://telegra.ph/How-to-host-a-Telegram-Userbot-11-02",
-  "success_url": "https://t.me/Abucuyy",
+  "success_url": "https://t.me/Melda_ni",
   "stack": "container",
   "env": {
     "API_KEY": {
