@@ -30,7 +30,7 @@ LOGS.info("You are running ShinoaHiiragi")
 
 LOGS.info(
     "Congratulations, your userbot is now running !! Test it by typing .alive / .on in any chat."
-    "If you need assistance, head to https://http://t.me/abucuyy")
+    "If you need assistance, head to https://http://t.me/Melda_ni")
 
 if len(argv) not in (1, 3, 4):
     bot.disconnect()
